@@ -1,0 +1,6 @@
+﻿  Main.cpp
+d:\c++ programming\gip-2018-2019\paktikum_12_01\cimggip05.h(49666): warning C4838: Konvertierung von "int" zu "unsigned char" erfordert eine einschränkende Konvertierung
+  MyFilledRectangle.cpp
+d:\c++ programming\gip-2018-2019\paktikum_12_01\cimggip05.h(49666): warning C4838: Konvertierung von "int" zu "unsigned char" erfordert eine einschränkende Konvertierung
+  Code wird generiert...
+  Paktikum_12_01.vcxproj -> D:\c++ programming\GIP-2018-2019\Debug\Praktikum_12_01.exe
