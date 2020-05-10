@@ -1,0 +1,7 @@
+﻿  Quelle.cpp
+  suchen.cpp
+d:\c++ programming\gip-2018-2019\praktikum_09_zeichenkette\suchen.cpp(26): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+d:\c++ programming\gip-2018-2019\praktikum_09_zeichenkette\suchen.cpp(28): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  unit_tests.cpp
+  Code wird generiert...
+  Praktikum_09_Zeichenkette.vcxproj -> D:\c++ programming\GIP-2018-2019\Debug\Praktikum_09_Zeichenkette.exe

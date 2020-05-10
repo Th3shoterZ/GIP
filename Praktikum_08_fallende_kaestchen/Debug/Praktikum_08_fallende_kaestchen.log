@@ -1,0 +1,4 @@
+﻿  Quelle.cpp
+d:\c++ programming\gip-2018-2019\praktikum_08_fallende_kaestchen\cimggip05.h(49665): warning C4838: Konvertierung von "int" zu "unsigned char" erfordert eine einschränkende Konvertierung
+d:\c++ programming\gip-2018-2019\praktikum_08_fallende_kaestchen\quelle.cpp(47): warning C4018: ">=": Konflikt zwischen "signed" und "unsigned"
+  Praktikum_08_fallende_kaestchen.vcxproj -> D:\c++ programming\GIP-2018-2019\Debug\Praktikum_08_fallende_kaestchen.exe
